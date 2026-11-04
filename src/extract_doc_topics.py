@@ -25,4 +25,4 @@ doc_topic_matrix = model.fit_transform(corpus, keywords=keywords)
 for topic_name, topic_strength in zip(model.topic_names, doc_topic_matrix.T):
     data[topic_name] = topic_strength
 
-data.to_excel("for_mette/yidali-huarenjie-phase3/10_topics/yidali-huarenjie_10topics_distributions.xlsx", index=False, header=True)
+data.to_excel("outputs/yidali-huarenjie-phase3/10_topics/yidali-huarenjie_10topics_distributions.xlsx", index=False, header=True)

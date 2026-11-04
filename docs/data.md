@@ -1,6 +1,6 @@
 # Data
 
-## What is released
+## Available data
 
 | Path | Description |
 |---|---|
@@ -13,7 +13,7 @@ The 10-topic model is the one reported in the article. The 20-topic model is inc
 
 The document–topic distributions come from `extract_doc_topics.py`. That script fits a *static* KeyNMF model to the saved keyword scores, whereas the figures come from the *dynamic* model in `run_turftopic10.py`. Both use the same keyword matrix, but topic indices are not guaranteed to line up across the two fits.
 
-## What is not released, and why
+## Data not made available
 
 - **Article text and titles.** Article texts are copyrighted by NE and are not redistributed. The released tables identify articles by NE's article ID and snapshot timestamp only.
 - **Raw scrape, parsed CSV corpus, embeddings, keyword files.** These either contain the article text or can be used to reconstruct it closely. They are kept on UCloud, Aarhus University's secure GDPR-compliant research infrastructure.

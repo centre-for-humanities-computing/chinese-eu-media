@@ -2,7 +2,7 @@
 
 Code and topic-model results for:
 
-> **TODO: Authors** (2026). Shaping Opinions Across Borders: Contrastive Legitimacy Framing of 2024–25 European Elections in Ethnic Chinese Media. *Global Media and Communication*. https://doi.org/TODO
+> **TODO: Authors** (In Press). Shaping Opinions Across Borders: Contrastive Legitimacy Framing of 2024–25 European Elections in Ethnic Chinese Media. *Global Media and Communication*. https://doi.org/TODO
 
 The article examines how *Nouvelles d'Europe* (欧洲时报, NE), Europe's largest Chinese-language newspaper and one with close institutional ties to the Chinese Party-state, covered the cycle of liberal-democratic elections in Europe between April 2024 and February 2025. We collected NE's online output every six hours, used dynamic topic modelling to map what the paper wrote about and when, and then carried out qualitative framing analysis of the election coverage. Across the European Parliament election, the French, Austrian and German state elections, and the German federal election, NE presented liberal-democratic governance as unstable and dysfunctional while normalising sovereignty-oriented actors. We call this pattern *contrastive legitimacy framing*.
 
