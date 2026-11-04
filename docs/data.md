@@ -17,10 +17,9 @@ The document–topic distributions come from `extract_doc_topics.py`. That scrip
 
 - **Article text and titles.** Article texts are copyrighted by NE and are not redistributed. The released tables identify articles by NE's article ID and snapshot timestamp only.
 - **Raw scrape, parsed CSV corpus, embeddings, keyword files.** These either contain the article text or can be used to reconstruct it closely. They are kept on UCloud, Aarhus University's secure GDPR-compliant research infrastructure.
-- **MAXQDA project** with the qualitative framing codes.
-- **The other four outlets** (xinouzhou, chinanews.se, yidali.huarenjie, ihuawen). The parsing code is included, but the published article analyses NE only.
+- **Data from other outlets** (xinouzhou, chinanews.se, yidali.huarenjie, ihuawen). The parsing code is included, but the published article analyses NE only.
 
-Researchers who want access to restricted material to verify the results should contact the authors (**TODO: contact address**).
+Researchers who want access to restricted material to verify the results should contact the authors.
 
 ## Column dictionary
 
