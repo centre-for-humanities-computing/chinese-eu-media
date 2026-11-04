@@ -1,0 +1,24 @@
+# Dependencies imported by the scripts in src/. Versions were not recorded at
+# the time of analysis; turftopic and sentence-transformers are the ones that
+# matter most for the topic models. plotly ships with turftopic's plotting.
+numpy
+pandas
+scipy
+scikit-learn
+sentence-transformers
+turftopic
+bertopic        # imported in run_turftopic*.py (ClassTfidfTransformer)
+gensim
+jieba
+umap-learn
+matplotlib
+seaborn
+plotly
+openpyxl
+beautifulsoup4
+lxml
+# newsFluxus (src/newsFluxus) additionally imports:
+spacy
+nltk
+stanza
+NewlineJSON

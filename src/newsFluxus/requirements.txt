@@ -1,0 +1,16 @@
+################################################################
+# See README for GPU acceleration
+#
+################################################################
+numpy
+#torch
+#torchvision
+stanza
+nltk
+gensim
+scipy
+NewlineJSON
+pandas
+spacy
+# for usecase
+matplotlib

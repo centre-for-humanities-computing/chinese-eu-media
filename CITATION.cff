@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the article below."
+title: "Code and topic-model results for 'Shaping Opinions Across Borders: Contrastive Legitimacy Framing of 2024–25 European Elections in Ethnic Chinese Media'"
+type: software
+license: MIT
+repository-code: "https://github.com/TODO/TODO"
+# TODO: complete the author list (and add ORCIDs) in both places below
+authors:
+  - family-names: Kristensen-McLachlan
+    given-names: Ross Deans
+    affiliation: Aarhus University
+  - name: "TODO: co-authors"
+preferred-citation:
+  type: article
+  title: "Shaping Opinions Across Borders: Contrastive Legitimacy Framing of 2024–25 European Elections in Ethnic Chinese Media"
+  journal: "Global Media and Communication"
+  year: 2026
+  # doi: "10.xxxx/xxxxx"   # TODO: add once assigned (must be a valid DOI or GitHub rejects the file)
+  authors:
+    - family-names: Kristensen-McLachlan
+      given-names: Ross Deans
+      affiliation: Aarhus University
+    - name: "TODO: co-authors"
